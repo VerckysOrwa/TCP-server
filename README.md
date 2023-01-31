@@ -8,7 +8,7 @@
 ## accesing the server
 On Your Local Machine, Go to your Command Line Interface(CLI) and access telnet by typing "telnet 127.0.0.1 < server-Port >" And Press Enter.
 The server Port in this case is 5060.
-- NB:The Server is Limited to accept only a maximum of 2 users at a time.
+- NB:The Server is Limited to accept only a maximum of 2 users(clients) at a time.
 
 ## technologies
 The following technologies were used in the development of the server
